@@ -1,6 +1,6 @@
 <head>
 <meta charset="utf-8">
-<title>Calculator</title>
+<title>Simple Calculator</title>
 </head>
 <body>
 <form method="post" attribute="post" action="disp_form.php">
